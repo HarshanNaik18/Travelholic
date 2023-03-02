@@ -1,0 +1,19 @@
+.MainContainer{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+.slider{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+
+.footer{
+    height: 250px;
+}

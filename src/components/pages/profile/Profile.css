@@ -1,0 +1,22 @@
+button{
+    font-size: 1rem;
+    margin-top: 1.8rem;
+    padding: 10px 0;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 90%;
+    color: #fff;
+    cursor: pointer;
+    background: rgb(17, 107,143);
+}
+button:disabled{
+    background-color: grey !important;
+}
+
+button:hover{
+    background: rgba(17,107,143,0.877);
+}
+input:focus{
+    border: 1px solid rgb(192,192,192);
+}
